@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Egor Khomutskii
 =======================================================================================================================================
 
-Novice web developer
+Web developer
 --------------------
 
-I am studying at the Moscow Aviation Institute at the Faculty of Computer Science and Computer Engineering in the 4th year. I started actively doing web development in 2022. I started studying with HTML, CSS, JavaScript. At the moment I am studying the React js framework.
+Hi, my name is Egor, I have been actively engaged in web development for about a year, in 2023 I graduated from the Moscow Aviation Institute in the faculty of computer science and computer engineering, and also took a 3-month course from the Yandex workshop "React Developer". At the moment I am working as a full stack js developer. I am constantly practicing React and learning new technologies.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [Github](http://https://github.com/Eorg1337)
