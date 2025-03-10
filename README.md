@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 --------------------
 
-Hi, my name is Egor, I have been actively engaged in web development for about a year, in 2023 I graduated from the Moscow Aviation Institute in the faculty of computer science and computer engineering, and also took a 3-month course from the Yandex workshop "React Developer". At the moment I am working as a full stack js developer. I am constantly practicing React and learning new technologies.
+Hi, my name is Egor, I am developing ReactJS at RSHB INTECH, I am engaged in the automation of HR processes. My technology stack includes: JavaScript, ReactJS, HTML, CSS, PostgreSQL, MsSQL.
 
 * 🌍  I'm based in Moscow
 * 🖥️  See my portfolio at [Github](http://https://github.com/Eorg1337)
 * ✉️  You can contact me at [https://t.me/Eg\_or\_i4](mailto:https://t.me/Eg_or_i4)
-* 🧠  I'm learning React js, TypeScript
+* 🧠  I'm using JavaScript, ReactJS, TypeScript, HTML, CSS
 
 ### Skills
 
